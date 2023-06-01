@@ -1,2 +1,3 @@
-var a = "Sreenesh";
-var b = "Kini"
+var a = "Siddhesh";
+var b = "Kini";
+var c = "Hello";
